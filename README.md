@@ -12,19 +12,7 @@ The project demonstrates production-level UI craftsmanship alongside a maintaina
 
 ---
 
-## Screenshots
 
-| Splash | Login | Register |
-|--------|-------|----------|
-| ![Splash](screenshots/splash.png) | ![Login](screenshots/login.png) | ![Register](screenshots/register.png) |
-
-| Home | Filter | Details |
-|------|--------|---------|
-| ![Home](screenshots/home.png) | ![Filter](screenshots/filter.png) | ![Details](screenshots/details.png) |
-
-> _Place your screenshots in a `/screenshots` folder at the project root._
-
----
 
 ## Key Features
 
